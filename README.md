@@ -36,7 +36,7 @@ Neste projeto, gerar visualizações de dados de séries temporais usando um gr�
 
 [Projeto FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
 
-[Solução]()
+[Solução](https://github.com/jeanmatheuss/jean-FreeCodeCamp/blob/main/Page-View-Time-Series-Visualizer/time_series_visualizer.py)
 
 ## Projeto 5:
 **Sea Level Predictor**
@@ -45,4 +45,4 @@ Neste projeto, analise um conjunto de dados da mudança global média do nível 
 
 [Projeto FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
 
-[Solução]()
+[Solução](https://github.com/jeanmatheuss/jean-FreeCodeCamp/blob/main/Sea-Level-Predictor/sea_level_predictor.py)
